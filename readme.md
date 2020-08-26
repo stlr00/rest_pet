@@ -1,0 +1,1 @@
+Simple REST API PET-project with sql and sequelize
